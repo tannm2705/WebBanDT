@@ -1,0 +1,28 @@
+C:\Users\admin\Documents\Visual Studio 2010\Projects\WebBanDT\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\admin\Documents\Visual Studio 2010\Projects\WebBanDT\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\admin\Documents\Visual Studio 2010\Projects\WebBanDT\DataAccess\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\admin\Documents\Visual Studio 2010\Projects\WebBanDT\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\admin\Documents\Visual Studio 2010\Projects\WebBanDT\DataAccess\obj\Debug\DataAccess.pdb
+C:\Users\admin\Documents\Visual Studio 2010\Projects\WebBanDT\DataAccess\bin\Debug\Common.dll
+C:\Users\admin\Documents\Visual Studio 2010\Projects\WebBanDT\DataAccess\bin\Debug\Common.pdb
+C:\Users\PHUONG\Desktop\New folder\WebBanDT\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\PHUONG\Desktop\New folder\WebBanDT\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\PHUONG\Desktop\New folder\WebBanDT\DataAccess\bin\Debug\Common.dll
+C:\Users\PHUONG\Desktop\New folder\WebBanDT\DataAccess\bin\Debug\Common.pdb
+C:\Users\PHUONG\Desktop\New folder\WebBanDT\DataAccess\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\PHUONG\Desktop\New folder\WebBanDT\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\PHUONG\Desktop\New folder\WebBanDT\DataAccess\obj\Debug\DataAccess.pdb
+C:\Users\PHUONG\Desktop\DATN\WebBanDT\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\PHUONG\Desktop\DATN\WebBanDT\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\PHUONG\Desktop\DATN\WebBanDT\DataAccess\bin\Debug\Common.dll
+C:\Users\PHUONG\Desktop\DATN\WebBanDT\DataAccess\bin\Debug\Common.pdb
+C:\Users\PHUONG\Desktop\DATN\WebBanDT\DataAccess\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\PHUONG\Desktop\DATN\WebBanDT\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\PHUONG\Desktop\DATN\WebBanDT\DataAccess\obj\Debug\DataAccess.pdb
+C:\Users\TAN\Desktop\WebBanDT\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\TAN\Desktop\WebBanDT\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\TAN\Desktop\WebBanDT\DataAccess\bin\Debug\Common.dll
+C:\Users\TAN\Desktop\WebBanDT\DataAccess\bin\Debug\Common.pdb
+C:\Users\TAN\Desktop\WebBanDT\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\TAN\Desktop\WebBanDT\DataAccess\obj\Debug\DataAccess.pdb
+C:\Users\TAN\Desktop\WebBanDT\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache

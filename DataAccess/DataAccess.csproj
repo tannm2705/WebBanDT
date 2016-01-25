@@ -1,0 +1,103 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{2B6E5613-6C9D-4431-BD36-D5125FCF8664}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>DataAccess</RootNamespace>
+    <AssemblyName>DataAccess</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Class1.cs" />
+    <Compile Include="Delete\XoaDonHang.cs" />
+    <Compile Include="Delete\XoaNguoiDung.cs" />
+    <Compile Include="Delete\XoaSanPham.cs" />
+    <Compile Include="Delete\XoaThongTinKieuDang.cs" />
+    <Compile Include="Delete\XoaThongTinNhaSX.cs" />
+    <Compile Include="Delete\XoaThongTinPhongCach.cs" />
+    <Compile Include="Delete\XoaTinRaoVat.cs" />
+    <Compile Include="Insert\ThemDonHang.cs" />
+    <Compile Include="Insert\ThemGioHang.cs" />
+    <Compile Include="Insert\ThemKieuDang.cs" />
+    <Compile Include="Insert\ThemNguoiDung.cs" />
+    <Compile Include="Insert\ThemNhaSX.cs" />
+    <Compile Include="Insert\ThemPhongCach.cs" />
+    <Compile Include="Insert\ThemSanPhamMoi.cs" />
+    <Compile Include="Insert\ThemTinRaoVat.cs" />
+    <Compile Include="Ketnoi.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Select\GetPass.cs" />
+    <Compile Include="Select\SanPhamSearch.cs" />
+    <Compile Include="Select\text.cs" />
+    <Compile Include="Select\ThongKeDonHang.cs" />
+    <Compile Include="Select\ThongKeSanPhamNguoiMua.cs" />
+    <Compile Include="Select\TruyXuatAllThongTinSanPham.cs" />
+    <Compile Include="Select\TruyXuatAllThongTinNguoiDung.cs" />
+    <Compile Include="Select\TruyXuatAllThongTinNguoiDungByID.cs" />
+    <Compile Include="Select\TruyXuatAllThongTinNhaSX.cs" />
+    <Compile Include="Select\TruyXuatAllThongTinKieuDang.cs" />
+    <Compile Include="Select\TruyXuatAllThongTinPhongCach.cs" />
+    <Compile Include="Select\TruyXuatAllThongTinSanPhamByMaNSX.cs" />
+    <Compile Include="Select\TruyXuatAllThongTinTopNSanpham.cs" />
+    <Compile Include="Select\TruyXuatDangNhapNguoiDung.cs" />
+    <Compile Include="Select\TruyXuatThongTinSanPhamByID.cs" />
+    <Compile Include="Select\TruyXuatThongTinSanPhamByPhongCach.cs" />
+    <Compile Include="Select\TruyXuatTinRaoVat.cs" />
+    <Compile Include="Update\CapNhatDonHang.cs" />
+    <Compile Include="Update\CapNhatTinRaoVat.cs" />
+    <Compile Include="Update\SuaThongTinKieuDang.cs" />
+    <Compile Include="Update\SuaThongTinNguoiDung.cs" />
+    <Compile Include="Update\SuaThongTinNhaSX.cs" />
+    <Compile Include="Update\SuaThongTinPhongCach.cs" />
+    <Compile Include="Update\SuaThongTinSanPham.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Common\Common.csproj">
+      <Project>{5DEAB8FB-B195-4872-BC0C-897B817BA002}</Project>
+      <Name>Common</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="WebSiteDTConnectionString-Web.config Connection String" description="WebSiteDTConnectionString Connection String used in web.config by the application to access the database." defaultValue="Server=(local);Database=WebBanDT;uid=sa;pwd=123456; Integrated Security=True" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\TAN\\Desktop\\WebBanDT\\WebBanDT\\obj\\Debug\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='WebSiteDTConnectionString']/@connectionString" />
+  </parameter>
+  <parameter name="SQLCONN-Web.config Connection String" description="SQLCONN Connection String used in web.config by the application to access the database." defaultValue="Server=(local);Database=WebBanDT;uid=sa;pwd=123456;" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\TAN\\Desktop\\WebBanDT\\WebBanDT\\obj\\Debug\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='SQLCONN']/@connectionString" />
+  </parameter>
+  <parameter name="WebBanDTConnectionString-Web.config Connection String" description="WebBanDTConnectionString Connection String used in web.config by the application to access the database." defaultValue="Server=(local);Database=WebBanDT;uid=sa;pwd=123456; Integrated Security=True" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\TAN\\Desktop\\WebBanDT\\WebBanDT\\obj\\Debug\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='WebBanDTConnectionString']/@connectionString" />
+  </parameter>
+</parameters>

@@ -1,0 +1,36 @@
+C:\Users\admin\Documents\Visual Studio 2010\Projects\WebBanDT\BusinessLogic\bin\Debug\BusinessLogic.dll
+C:\Users\admin\Documents\Visual Studio 2010\Projects\WebBanDT\BusinessLogic\bin\Debug\BusinessLogic.pdb
+C:\Users\admin\Documents\Visual Studio 2010\Projects\WebBanDT\BusinessLogic\bin\Debug\Common.dll
+C:\Users\admin\Documents\Visual Studio 2010\Projects\WebBanDT\BusinessLogic\bin\Debug\DataAccess.dll
+C:\Users\admin\Documents\Visual Studio 2010\Projects\WebBanDT\BusinessLogic\bin\Debug\Common.pdb
+C:\Users\admin\Documents\Visual Studio 2010\Projects\WebBanDT\BusinessLogic\bin\Debug\DataAccess.pdb
+C:\Users\admin\Documents\Visual Studio 2010\Projects\WebBanDT\BusinessLogic\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\admin\Documents\Visual Studio 2010\Projects\WebBanDT\BusinessLogic\obj\Debug\BusinessLogic.dll
+C:\Users\admin\Documents\Visual Studio 2010\Projects\WebBanDT\BusinessLogic\obj\Debug\BusinessLogic.pdb
+C:\Users\PHUONG\Desktop\New folder\WebBanDT\BusinessLogic\bin\Debug\BusinessLogic.dll
+C:\Users\PHUONG\Desktop\New folder\WebBanDT\BusinessLogic\bin\Debug\BusinessLogic.pdb
+C:\Users\PHUONG\Desktop\New folder\WebBanDT\BusinessLogic\bin\Debug\Common.dll
+C:\Users\PHUONG\Desktop\New folder\WebBanDT\BusinessLogic\bin\Debug\DataAccess.dll
+C:\Users\PHUONG\Desktop\New folder\WebBanDT\BusinessLogic\bin\Debug\Common.pdb
+C:\Users\PHUONG\Desktop\New folder\WebBanDT\BusinessLogic\bin\Debug\DataAccess.pdb
+C:\Users\PHUONG\Desktop\New folder\WebBanDT\BusinessLogic\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\PHUONG\Desktop\New folder\WebBanDT\BusinessLogic\obj\Debug\BusinessLogic.dll
+C:\Users\PHUONG\Desktop\New folder\WebBanDT\BusinessLogic\obj\Debug\BusinessLogic.pdb
+C:\Users\PHUONG\Desktop\DATN\WebBanDT\BusinessLogic\bin\Debug\BusinessLogic.dll
+C:\Users\PHUONG\Desktop\DATN\WebBanDT\BusinessLogic\bin\Debug\BusinessLogic.pdb
+C:\Users\PHUONG\Desktop\DATN\WebBanDT\BusinessLogic\bin\Debug\Common.dll
+C:\Users\PHUONG\Desktop\DATN\WebBanDT\BusinessLogic\bin\Debug\DataAccess.dll
+C:\Users\PHUONG\Desktop\DATN\WebBanDT\BusinessLogic\bin\Debug\Common.pdb
+C:\Users\PHUONG\Desktop\DATN\WebBanDT\BusinessLogic\bin\Debug\DataAccess.pdb
+C:\Users\PHUONG\Desktop\DATN\WebBanDT\BusinessLogic\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\PHUONG\Desktop\DATN\WebBanDT\BusinessLogic\obj\Debug\BusinessLogic.dll
+C:\Users\PHUONG\Desktop\DATN\WebBanDT\BusinessLogic\obj\Debug\BusinessLogic.pdb
+C:\Users\TAN\Desktop\WebBanDT\BusinessLogic\bin\Debug\BusinessLogic.dll
+C:\Users\TAN\Desktop\WebBanDT\BusinessLogic\bin\Debug\BusinessLogic.pdb
+C:\Users\TAN\Desktop\WebBanDT\BusinessLogic\bin\Debug\Common.dll
+C:\Users\TAN\Desktop\WebBanDT\BusinessLogic\bin\Debug\DataAccess.dll
+C:\Users\TAN\Desktop\WebBanDT\BusinessLogic\bin\Debug\Common.pdb
+C:\Users\TAN\Desktop\WebBanDT\BusinessLogic\bin\Debug\DataAccess.pdb
+C:\Users\TAN\Desktop\WebBanDT\BusinessLogic\obj\Debug\BusinessLogic.dll
+C:\Users\TAN\Desktop\WebBanDT\BusinessLogic\obj\Debug\BusinessLogic.pdb
+C:\Users\TAN\Desktop\WebBanDT\BusinessLogic\obj\Debug\BusinessLogic.csprojResolveAssemblyReference.cache

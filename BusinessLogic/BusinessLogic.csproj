@@ -1,0 +1,106 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{90D841C9-8CC2-4523-A706-1F2234E0A7A2}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>BusinessLogic</RootNamespace>
+    <AssemblyName>BusinessLogic</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Class1.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="XulyCapNhatDonHang.cs" />
+    <Compile Include="XulyCapNhatTinRaoVAt.cs" />
+    <Compile Include="XulyGetPass.cs" />
+    <Compile Include="XuLyKiemTraThongTinDangNhap.cs" />
+    <Compile Include="XulyLayAllThongTinKieuDang.cs" />
+    <Compile Include="XulyLayAllThongTinNguoiDungByID.cs" />
+    <Compile Include="XulyLayAllThongTinPhongCach.cs" />
+    <Compile Include="XulyLayAllthongtinNhaSX.cs" />
+    <Compile Include="XulyLayMaxIDDonHang.cs" />
+    <Compile Include="XulyLayTen_GiaSanPham.cs" />
+    <Compile Include="XulyLayThongTinSanPhamByID.cs" />
+    <Compile Include="XulyLayThongTinSanPhamByPhongCach.cs" />
+    <Compile Include="XulySanPhamSearch.cs" />
+    <Compile Include="XulySuaThongTinKieuDang.cs" />
+    <Compile Include="XulySuaThongTinNguoiDung.cs" />
+    <Compile Include="XulySuaThongTinNhaSX.cs" />
+    <Compile Include="XulySuaThongTinPhongCach.cs" />
+    <Compile Include="XulySuaThongTinSanPham.cs" />
+    <Compile Include="XulyThemDonHang.cs" />
+    <Compile Include="XulyThemGioHang.cs" />
+    <Compile Include="XulyThemKieuDang.cs" />
+    <Compile Include="XulyThemNguoiDung.cs" />
+    <Compile Include="XulyThemNhaSX.cs" />
+    <Compile Include="XulyThemPhongCach.cs" />
+    <Compile Include="XulyThemSanPhamMoi.cs" />
+    <Compile Include="XulyThemTinRaoVat.cs" />
+    <Compile Include="XulyThongKeDonHang.cs" />
+    <Compile Include="XulyThongKeSanPhamNguoiMua.cs" />
+    <Compile Include="XulyTruyXuatAllThongTinNguoiDung.cs" />
+    <Compile Include="XulyTruyXuatAllThongTinSanpham.cs" />
+    <Compile Include="XulyTruyXuatAllThongTinSanPhamByMaNSX.cs" />
+    <Compile Include="XulyTruyXuatAllTopNSanPham.cs" />
+    <Compile Include="XulyTruyXuatTinRaoVat.cs" />
+    <Compile Include="XulyXoaDonHang.cs" />
+    <Compile Include="XulyXoaNguoiDung.cs" />
+    <Compile Include="XulyXoaThongTinKieuDang.cs" />
+    <Compile Include="XulyXoaThongTinNhaSX.cs" />
+    <Compile Include="XulyXoaThongTinPhongCach.cs" />
+    <Compile Include="XulyXoaThongTinSP.cs" />
+    <Compile Include="XulyXoaTinRaoVat.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Common\Common.csproj">
+      <Project>{5DEAB8FB-B195-4872-BC0C-897B817BA002}</Project>
+      <Name>Common</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DataAccess\DataAccess.csproj">
+      <Project>{2B6E5613-6C9D-4431-BD36-D5125FCF8664}</Project>
+      <Name>DataAccess</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

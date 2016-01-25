@@ -1,0 +1,222 @@
+c:\users\admin\documents\visual studio 2010\Projects\WebBanDT\WebBanDT\bin\WebBanDT.dll
+c:\users\admin\documents\visual studio 2010\Projects\WebBanDT\WebBanDT\bin\WebBanDT.pdb
+c:\users\admin\documents\visual studio 2010\Projects\WebBanDT\WebBanDT\obj\Debug\ResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2010\Projects\WebBanDT\WebBanDT\obj\Debug\WebBanDT.dll
+c:\users\admin\documents\visual studio 2010\Projects\WebBanDT\WebBanDT\obj\Debug\WebBanDT.pdb
+C:\Users\admin\Documents\Visual Studio 2010\Projects\WebBanDT\WebBanDT\bin\DataAccess.dll
+C:\Users\admin\Documents\Visual Studio 2010\Projects\WebBanDT\WebBanDT\bin\DataAccess.pdb
+C:\Users\admin\Documents\Visual Studio 2010\Projects\WebBanDT\WebBanDT\bin\BusinessLogic.dll
+C:\Users\admin\Documents\Visual Studio 2010\Projects\WebBanDT\WebBanDT\bin\Common.dll
+C:\Users\admin\Documents\Visual Studio 2010\Projects\WebBanDT\WebBanDT\bin\BusinessLogic.pdb
+C:\Users\admin\Documents\Visual Studio 2010\Projects\WebBanDT\WebBanDT\bin\Common.pdb
+C:\Users\PHUONG\Desktop\New folder\WebBanDT\WebBanDT\bin\WebBanDT.dll
+C:\Users\PHUONG\Desktop\New folder\WebBanDT\WebBanDT\bin\WebBanDT.pdb
+C:\Users\PHUONG\Desktop\New folder\WebBanDT\WebBanDT\bin\BusinessLogic.dll
+C:\Users\PHUONG\Desktop\New folder\WebBanDT\WebBanDT\bin\Common.dll
+C:\Users\PHUONG\Desktop\New folder\WebBanDT\WebBanDT\bin\DataAccess.dll
+C:\Users\PHUONG\Desktop\New folder\WebBanDT\WebBanDT\bin\BusinessLogic.pdb
+C:\Users\PHUONG\Desktop\New folder\WebBanDT\WebBanDT\bin\Common.pdb
+C:\Users\PHUONG\Desktop\New folder\WebBanDT\WebBanDT\bin\DataAccess.pdb
+C:\Users\PHUONG\Desktop\New folder\WebBanDT\WebBanDT\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\PHUONG\Desktop\New folder\WebBanDT\WebBanDT\obj\Debug\WebBanDT.dll
+C:\Users\PHUONG\Desktop\New folder\WebBanDT\WebBanDT\obj\Debug\WebBanDT.pdb
+C:\Users\PHUONG\Desktop\New folder\WebBanDT\WebBanDT\bin\Microsoft.WindowsAzure.Storage.dll
+C:\Users\PHUONG\Desktop\New folder\WebBanDT\WebBanDT\bin\HtmlAgilityPack.dll
+C:\Users\PHUONG\Desktop\New folder\WebBanDT\WebBanDT\bin\AjaxMin.dll
+C:\Users\PHUONG\Desktop\New folder\WebBanDT\WebBanDT\bin\Microsoft.Data.OData.dll
+C:\Users\PHUONG\Desktop\New folder\WebBanDT\WebBanDT\bin\Microsoft.Data.Edm.dll
+C:\Users\PHUONG\Desktop\New folder\WebBanDT\WebBanDT\bin\System.Spatial.dll
+C:\Users\PHUONG\Desktop\New folder\WebBanDT\WebBanDT\bin\AjaxControlToolkit.pdb
+C:\Users\PHUONG\Desktop\New folder\WebBanDT\WebBanDT\bin\Microsoft.WindowsAzure.Storage.xml
+C:\Users\PHUONG\Desktop\New folder\WebBanDT\WebBanDT\bin\Microsoft.Data.OData.xml
+C:\Users\PHUONG\Desktop\New folder\WebBanDT\WebBanDT\bin\Microsoft.Data.Edm.xml
+C:\Users\PHUONG\Desktop\New folder\WebBanDT\WebBanDT\bin\System.Spatial.xml
+C:\Users\PHUONG\Desktop\New folder\WebBanDT\WebBanDT\bin\ar\AjaxControlToolkit.resources.dll
+C:\Users\PHUONG\Desktop\New folder\WebBanDT\WebBanDT\bin\cs\AjaxControlToolkit.resources.dll
+C:\Users\PHUONG\Desktop\New folder\WebBanDT\WebBanDT\bin\de\AjaxControlToolkit.resources.dll
+C:\Users\PHUONG\Desktop\New folder\WebBanDT\WebBanDT\bin\es\AjaxControlToolkit.resources.dll
+C:\Users\PHUONG\Desktop\New folder\WebBanDT\WebBanDT\bin\fr\AjaxControlToolkit.resources.dll
+C:\Users\PHUONG\Desktop\New folder\WebBanDT\WebBanDT\bin\he\AjaxControlToolkit.resources.dll
+C:\Users\PHUONG\Desktop\New folder\WebBanDT\WebBanDT\bin\hi\AjaxControlToolkit.resources.dll
+C:\Users\PHUONG\Desktop\New folder\WebBanDT\WebBanDT\bin\it\AjaxControlToolkit.resources.dll
+C:\Users\PHUONG\Desktop\New folder\WebBanDT\WebBanDT\bin\ja\AjaxControlToolkit.resources.dll
+C:\Users\PHUONG\Desktop\New folder\WebBanDT\WebBanDT\bin\ko\AjaxControlToolkit.resources.dll
+C:\Users\PHUONG\Desktop\New folder\WebBanDT\WebBanDT\bin\nl\AjaxControlToolkit.resources.dll
+C:\Users\PHUONG\Desktop\New folder\WebBanDT\WebBanDT\bin\pl\AjaxControlToolkit.resources.dll
+C:\Users\PHUONG\Desktop\New folder\WebBanDT\WebBanDT\bin\pt\AjaxControlToolkit.resources.dll
+C:\Users\PHUONG\Desktop\New folder\WebBanDT\WebBanDT\bin\ru\AjaxControlToolkit.resources.dll
+C:\Users\PHUONG\Desktop\New folder\WebBanDT\WebBanDT\bin\tr-TR\AjaxControlToolkit.resources.dll
+C:\Users\PHUONG\Desktop\New folder\WebBanDT\WebBanDT\bin\zh-CHS\AjaxControlToolkit.resources.dll
+C:\Users\PHUONG\Desktop\New folder\WebBanDT\WebBanDT\bin\zh-CHT\AjaxControlToolkit.resources.dll
+C:\Users\PHUONG\Desktop\New folder\WebBanDT\WebBanDT\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\PHUONG\Desktop\New folder\WebBanDT\WebBanDT\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\PHUONG\Desktop\New folder\WebBanDT\WebBanDT\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\PHUONG\Desktop\New folder\WebBanDT\WebBanDT\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\PHUONG\Desktop\New folder\WebBanDT\WebBanDT\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\PHUONG\Desktop\New folder\WebBanDT\WebBanDT\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\PHUONG\Desktop\New folder\WebBanDT\WebBanDT\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\PHUONG\Desktop\New folder\WebBanDT\WebBanDT\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\PHUONG\Desktop\New folder\WebBanDT\WebBanDT\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\PHUONG\Desktop\New folder\WebBanDT\WebBanDT\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\PHUONG\Desktop\New folder\WebBanDT\WebBanDT\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\PHUONG\Desktop\New folder\WebBanDT\WebBanDT\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\PHUONG\Desktop\New folder\WebBanDT\WebBanDT\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\PHUONG\Desktop\New folder\WebBanDT\WebBanDT\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\PHUONG\Desktop\New folder\WebBanDT\WebBanDT\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\PHUONG\Desktop\New folder\WebBanDT\WebBanDT\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\PHUONG\Desktop\New folder\WebBanDT\WebBanDT\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\PHUONG\Desktop\New folder\WebBanDT\WebBanDT\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\PHUONG\Desktop\New folder\WebBanDT\WebBanDT\bin\de\System.Spatial.resources.dll
+C:\Users\PHUONG\Desktop\New folder\WebBanDT\WebBanDT\bin\es\System.Spatial.resources.dll
+C:\Users\PHUONG\Desktop\New folder\WebBanDT\WebBanDT\bin\fr\System.Spatial.resources.dll
+C:\Users\PHUONG\Desktop\New folder\WebBanDT\WebBanDT\bin\it\System.Spatial.resources.dll
+C:\Users\PHUONG\Desktop\New folder\WebBanDT\WebBanDT\bin\ja\System.Spatial.resources.dll
+C:\Users\PHUONG\Desktop\New folder\WebBanDT\WebBanDT\bin\ko\System.Spatial.resources.dll
+C:\Users\PHUONG\Desktop\New folder\WebBanDT\WebBanDT\bin\ru\System.Spatial.resources.dll
+C:\Users\PHUONG\Desktop\New folder\WebBanDT\WebBanDT\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\PHUONG\Desktop\New folder\WebBanDT\WebBanDT\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\PHUONG\Desktop\DATN\WebBanDT\WebBanDT\bin\WebBanDT.dll
+C:\Users\PHUONG\Desktop\DATN\WebBanDT\WebBanDT\bin\WebBanDT.pdb
+C:\Users\PHUONG\Desktop\DATN\WebBanDT\WebBanDT\bin\BusinessLogic.dll
+C:\Users\PHUONG\Desktop\DATN\WebBanDT\WebBanDT\bin\Common.dll
+C:\Users\PHUONG\Desktop\DATN\WebBanDT\WebBanDT\bin\DataAccess.dll
+C:\Users\PHUONG\Desktop\DATN\WebBanDT\WebBanDT\bin\Microsoft.WindowsAzure.Storage.dll
+C:\Users\PHUONG\Desktop\DATN\WebBanDT\WebBanDT\bin\HtmlAgilityPack.dll
+C:\Users\PHUONG\Desktop\DATN\WebBanDT\WebBanDT\bin\AjaxMin.dll
+C:\Users\PHUONG\Desktop\DATN\WebBanDT\WebBanDT\bin\Microsoft.Data.OData.dll
+C:\Users\PHUONG\Desktop\DATN\WebBanDT\WebBanDT\bin\Microsoft.Data.Edm.dll
+C:\Users\PHUONG\Desktop\DATN\WebBanDT\WebBanDT\bin\System.Spatial.dll
+C:\Users\PHUONG\Desktop\DATN\WebBanDT\WebBanDT\bin\BusinessLogic.pdb
+C:\Users\PHUONG\Desktop\DATN\WebBanDT\WebBanDT\bin\Common.pdb
+C:\Users\PHUONG\Desktop\DATN\WebBanDT\WebBanDT\bin\DataAccess.pdb
+C:\Users\PHUONG\Desktop\DATN\WebBanDT\WebBanDT\bin\AjaxControlToolkit.pdb
+C:\Users\PHUONG\Desktop\DATN\WebBanDT\WebBanDT\bin\Microsoft.WindowsAzure.Storage.xml
+C:\Users\PHUONG\Desktop\DATN\WebBanDT\WebBanDT\bin\Microsoft.Data.OData.xml
+C:\Users\PHUONG\Desktop\DATN\WebBanDT\WebBanDT\bin\Microsoft.Data.Edm.xml
+C:\Users\PHUONG\Desktop\DATN\WebBanDT\WebBanDT\bin\System.Spatial.xml
+C:\Users\PHUONG\Desktop\DATN\WebBanDT\WebBanDT\bin\ar\AjaxControlToolkit.resources.dll
+C:\Users\PHUONG\Desktop\DATN\WebBanDT\WebBanDT\bin\cs\AjaxControlToolkit.resources.dll
+C:\Users\PHUONG\Desktop\DATN\WebBanDT\WebBanDT\bin\de\AjaxControlToolkit.resources.dll
+C:\Users\PHUONG\Desktop\DATN\WebBanDT\WebBanDT\bin\es\AjaxControlToolkit.resources.dll
+C:\Users\PHUONG\Desktop\DATN\WebBanDT\WebBanDT\bin\fr\AjaxControlToolkit.resources.dll
+C:\Users\PHUONG\Desktop\DATN\WebBanDT\WebBanDT\bin\he\AjaxControlToolkit.resources.dll
+C:\Users\PHUONG\Desktop\DATN\WebBanDT\WebBanDT\bin\hi\AjaxControlToolkit.resources.dll
+C:\Users\PHUONG\Desktop\DATN\WebBanDT\WebBanDT\bin\it\AjaxControlToolkit.resources.dll
+C:\Users\PHUONG\Desktop\DATN\WebBanDT\WebBanDT\bin\ja\AjaxControlToolkit.resources.dll
+C:\Users\PHUONG\Desktop\DATN\WebBanDT\WebBanDT\bin\ko\AjaxControlToolkit.resources.dll
+C:\Users\PHUONG\Desktop\DATN\WebBanDT\WebBanDT\bin\nl\AjaxControlToolkit.resources.dll
+C:\Users\PHUONG\Desktop\DATN\WebBanDT\WebBanDT\bin\pl\AjaxControlToolkit.resources.dll
+C:\Users\PHUONG\Desktop\DATN\WebBanDT\WebBanDT\bin\pt\AjaxControlToolkit.resources.dll
+C:\Users\PHUONG\Desktop\DATN\WebBanDT\WebBanDT\bin\ru\AjaxControlToolkit.resources.dll
+C:\Users\PHUONG\Desktop\DATN\WebBanDT\WebBanDT\bin\tr-TR\AjaxControlToolkit.resources.dll
+C:\Users\PHUONG\Desktop\DATN\WebBanDT\WebBanDT\bin\zh-CHS\AjaxControlToolkit.resources.dll
+C:\Users\PHUONG\Desktop\DATN\WebBanDT\WebBanDT\bin\zh-CHT\AjaxControlToolkit.resources.dll
+C:\Users\PHUONG\Desktop\DATN\WebBanDT\WebBanDT\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\PHUONG\Desktop\DATN\WebBanDT\WebBanDT\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\PHUONG\Desktop\DATN\WebBanDT\WebBanDT\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\PHUONG\Desktop\DATN\WebBanDT\WebBanDT\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\PHUONG\Desktop\DATN\WebBanDT\WebBanDT\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\PHUONG\Desktop\DATN\WebBanDT\WebBanDT\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\PHUONG\Desktop\DATN\WebBanDT\WebBanDT\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\PHUONG\Desktop\DATN\WebBanDT\WebBanDT\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\PHUONG\Desktop\DATN\WebBanDT\WebBanDT\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\PHUONG\Desktop\DATN\WebBanDT\WebBanDT\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\PHUONG\Desktop\DATN\WebBanDT\WebBanDT\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\PHUONG\Desktop\DATN\WebBanDT\WebBanDT\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\PHUONG\Desktop\DATN\WebBanDT\WebBanDT\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\PHUONG\Desktop\DATN\WebBanDT\WebBanDT\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\PHUONG\Desktop\DATN\WebBanDT\WebBanDT\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\PHUONG\Desktop\DATN\WebBanDT\WebBanDT\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\PHUONG\Desktop\DATN\WebBanDT\WebBanDT\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\PHUONG\Desktop\DATN\WebBanDT\WebBanDT\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\PHUONG\Desktop\DATN\WebBanDT\WebBanDT\bin\de\System.Spatial.resources.dll
+C:\Users\PHUONG\Desktop\DATN\WebBanDT\WebBanDT\bin\es\System.Spatial.resources.dll
+C:\Users\PHUONG\Desktop\DATN\WebBanDT\WebBanDT\bin\fr\System.Spatial.resources.dll
+C:\Users\PHUONG\Desktop\DATN\WebBanDT\WebBanDT\bin\it\System.Spatial.resources.dll
+C:\Users\PHUONG\Desktop\DATN\WebBanDT\WebBanDT\bin\ja\System.Spatial.resources.dll
+C:\Users\PHUONG\Desktop\DATN\WebBanDT\WebBanDT\bin\ko\System.Spatial.resources.dll
+C:\Users\PHUONG\Desktop\DATN\WebBanDT\WebBanDT\bin\ru\System.Spatial.resources.dll
+C:\Users\PHUONG\Desktop\DATN\WebBanDT\WebBanDT\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\PHUONG\Desktop\DATN\WebBanDT\WebBanDT\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\PHUONG\Desktop\DATN\WebBanDT\WebBanDT\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\PHUONG\Desktop\DATN\WebBanDT\WebBanDT\obj\Debug\WebBanDT.dll
+C:\Users\PHUONG\Desktop\DATN\WebBanDT\WebBanDT\obj\Debug\WebBanDT.pdb
+C:\Users\PHUONG\Desktop\DATN\WebBanDT_v0.6\WebBanDT\WebBanDT\bin\WebBanDT.dll
+C:\Users\PHUONG\Desktop\DATN\WebBanDT_v0.6\WebBanDT\WebBanDT\bin\WebBanDT.pdb
+C:\Users\PHUONG\Desktop\DATN\WebBanDT_v0.6\WebBanDT\WebBanDT\bin\BusinessLogic.dll
+C:\Users\PHUONG\Desktop\DATN\WebBanDT_v0.6\WebBanDT\WebBanDT\bin\Common.dll
+C:\Users\PHUONG\Desktop\DATN\WebBanDT_v0.6\WebBanDT\WebBanDT\bin\DataAccess.dll
+C:\Users\PHUONG\Desktop\DATN\WebBanDT_v0.6\WebBanDT\WebBanDT\bin\Microsoft.WindowsAzure.Storage.dll
+C:\Users\PHUONG\Desktop\DATN\WebBanDT_v0.6\WebBanDT\WebBanDT\bin\HtmlAgilityPack.dll
+C:\Users\PHUONG\Desktop\DATN\WebBanDT_v0.6\WebBanDT\WebBanDT\bin\AjaxMin.dll
+C:\Users\PHUONG\Desktop\DATN\WebBanDT_v0.6\WebBanDT\WebBanDT\bin\Microsoft.Data.OData.dll
+C:\Users\PHUONG\Desktop\DATN\WebBanDT_v0.6\WebBanDT\WebBanDT\bin\Microsoft.Data.Edm.dll
+C:\Users\PHUONG\Desktop\DATN\WebBanDT_v0.6\WebBanDT\WebBanDT\bin\System.Spatial.dll
+C:\Users\PHUONG\Desktop\DATN\WebBanDT_v0.6\WebBanDT\WebBanDT\bin\BusinessLogic.pdb
+C:\Users\PHUONG\Desktop\DATN\WebBanDT_v0.6\WebBanDT\WebBanDT\bin\Common.pdb
+C:\Users\PHUONG\Desktop\DATN\WebBanDT_v0.6\WebBanDT\WebBanDT\bin\DataAccess.pdb
+C:\Users\PHUONG\Desktop\DATN\WebBanDT_v0.6\WebBanDT\WebBanDT\bin\AjaxControlToolkit.pdb
+C:\Users\PHUONG\Desktop\DATN\WebBanDT_v0.6\WebBanDT\WebBanDT\bin\Microsoft.WindowsAzure.Storage.xml
+C:\Users\PHUONG\Desktop\DATN\WebBanDT_v0.6\WebBanDT\WebBanDT\bin\Microsoft.Data.OData.xml
+C:\Users\PHUONG\Desktop\DATN\WebBanDT_v0.6\WebBanDT\WebBanDT\bin\Microsoft.Data.Edm.xml
+C:\Users\PHUONG\Desktop\DATN\WebBanDT_v0.6\WebBanDT\WebBanDT\bin\System.Spatial.xml
+C:\Users\PHUONG\Desktop\DATN\WebBanDT_v0.6\WebBanDT\WebBanDT\bin\ar\AjaxControlToolkit.resources.dll
+C:\Users\PHUONG\Desktop\DATN\WebBanDT_v0.6\WebBanDT\WebBanDT\bin\cs\AjaxControlToolkit.resources.dll
+C:\Users\PHUONG\Desktop\DATN\WebBanDT_v0.6\WebBanDT\WebBanDT\bin\de\AjaxControlToolkit.resources.dll
+C:\Users\PHUONG\Desktop\DATN\WebBanDT_v0.6\WebBanDT\WebBanDT\bin\es\AjaxControlToolkit.resources.dll
+C:\Users\PHUONG\Desktop\DATN\WebBanDT_v0.6\WebBanDT\WebBanDT\bin\fr\AjaxControlToolkit.resources.dll
+C:\Users\PHUONG\Desktop\DATN\WebBanDT_v0.6\WebBanDT\WebBanDT\bin\he\AjaxControlToolkit.resources.dll
+C:\Users\PHUONG\Desktop\DATN\WebBanDT_v0.6\WebBanDT\WebBanDT\bin\hi\AjaxControlToolkit.resources.dll
+C:\Users\PHUONG\Desktop\DATN\WebBanDT_v0.6\WebBanDT\WebBanDT\bin\it\AjaxControlToolkit.resources.dll
+C:\Users\PHUONG\Desktop\DATN\WebBanDT_v0.6\WebBanDT\WebBanDT\bin\ja\AjaxControlToolkit.resources.dll
+C:\Users\PHUONG\Desktop\DATN\WebBanDT_v0.6\WebBanDT\WebBanDT\bin\ko\AjaxControlToolkit.resources.dll
+C:\Users\PHUONG\Desktop\DATN\WebBanDT_v0.6\WebBanDT\WebBanDT\bin\nl\AjaxControlToolkit.resources.dll
+C:\Users\PHUONG\Desktop\DATN\WebBanDT_v0.6\WebBanDT\WebBanDT\bin\pl\AjaxControlToolkit.resources.dll
+C:\Users\PHUONG\Desktop\DATN\WebBanDT_v0.6\WebBanDT\WebBanDT\bin\pt\AjaxControlToolkit.resources.dll
+C:\Users\PHUONG\Desktop\DATN\WebBanDT_v0.6\WebBanDT\WebBanDT\bin\ru\AjaxControlToolkit.resources.dll
+C:\Users\PHUONG\Desktop\DATN\WebBanDT_v0.6\WebBanDT\WebBanDT\bin\tr-TR\AjaxControlToolkit.resources.dll
+C:\Users\PHUONG\Desktop\DATN\WebBanDT_v0.6\WebBanDT\WebBanDT\bin\zh-CHS\AjaxControlToolkit.resources.dll
+C:\Users\PHUONG\Desktop\DATN\WebBanDT_v0.6\WebBanDT\WebBanDT\bin\zh-CHT\AjaxControlToolkit.resources.dll
+C:\Users\PHUONG\Desktop\DATN\WebBanDT_v0.6\WebBanDT\WebBanDT\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\PHUONG\Desktop\DATN\WebBanDT_v0.6\WebBanDT\WebBanDT\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\PHUONG\Desktop\DATN\WebBanDT_v0.6\WebBanDT\WebBanDT\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\PHUONG\Desktop\DATN\WebBanDT_v0.6\WebBanDT\WebBanDT\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\PHUONG\Desktop\DATN\WebBanDT_v0.6\WebBanDT\WebBanDT\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\PHUONG\Desktop\DATN\WebBanDT_v0.6\WebBanDT\WebBanDT\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\PHUONG\Desktop\DATN\WebBanDT_v0.6\WebBanDT\WebBanDT\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\PHUONG\Desktop\DATN\WebBanDT_v0.6\WebBanDT\WebBanDT\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\PHUONG\Desktop\DATN\WebBanDT_v0.6\WebBanDT\WebBanDT\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\PHUONG\Desktop\DATN\WebBanDT_v0.6\WebBanDT\WebBanDT\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\PHUONG\Desktop\DATN\WebBanDT_v0.6\WebBanDT\WebBanDT\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\PHUONG\Desktop\DATN\WebBanDT_v0.6\WebBanDT\WebBanDT\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\PHUONG\Desktop\DATN\WebBanDT_v0.6\WebBanDT\WebBanDT\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\PHUONG\Desktop\DATN\WebBanDT_v0.6\WebBanDT\WebBanDT\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\PHUONG\Desktop\DATN\WebBanDT_v0.6\WebBanDT\WebBanDT\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\PHUONG\Desktop\DATN\WebBanDT_v0.6\WebBanDT\WebBanDT\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\PHUONG\Desktop\DATN\WebBanDT_v0.6\WebBanDT\WebBanDT\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\PHUONG\Desktop\DATN\WebBanDT_v0.6\WebBanDT\WebBanDT\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\PHUONG\Desktop\DATN\WebBanDT_v0.6\WebBanDT\WebBanDT\bin\de\System.Spatial.resources.dll
+C:\Users\PHUONG\Desktop\DATN\WebBanDT_v0.6\WebBanDT\WebBanDT\bin\es\System.Spatial.resources.dll
+C:\Users\PHUONG\Desktop\DATN\WebBanDT_v0.6\WebBanDT\WebBanDT\bin\fr\System.Spatial.resources.dll
+C:\Users\PHUONG\Desktop\DATN\WebBanDT_v0.6\WebBanDT\WebBanDT\bin\it\System.Spatial.resources.dll
+C:\Users\PHUONG\Desktop\DATN\WebBanDT_v0.6\WebBanDT\WebBanDT\bin\ja\System.Spatial.resources.dll
+C:\Users\PHUONG\Desktop\DATN\WebBanDT_v0.6\WebBanDT\WebBanDT\bin\ko\System.Spatial.resources.dll
+C:\Users\PHUONG\Desktop\DATN\WebBanDT_v0.6\WebBanDT\WebBanDT\bin\ru\System.Spatial.resources.dll
+C:\Users\PHUONG\Desktop\DATN\WebBanDT_v0.6\WebBanDT\WebBanDT\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\PHUONG\Desktop\DATN\WebBanDT_v0.6\WebBanDT\WebBanDT\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\PHUONG\Desktop\DATN\WebBanDT_v0.6\WebBanDT\WebBanDT\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\PHUONG\Desktop\DATN\WebBanDT_v0.6\WebBanDT\WebBanDT\obj\Debug\WebBanDT.dll
+C:\Users\PHUONG\Desktop\DATN\WebBanDT_v0.6\WebBanDT\WebBanDT\obj\Debug\WebBanDT.pdb
+C:\Users\TAN\Desktop\WebBanDT\WebBanDT\bin\WebBanDT.dll
+C:\Users\TAN\Desktop\WebBanDT\WebBanDT\bin\WebBanDT.pdb
+C:\Users\TAN\Desktop\WebBanDT\WebBanDT\bin\BusinessLogic.dll
+C:\Users\TAN\Desktop\WebBanDT\WebBanDT\bin\Common.dll
+C:\Users\TAN\Desktop\WebBanDT\WebBanDT\bin\DataAccess.dll
+C:\Users\TAN\Desktop\WebBanDT\WebBanDT\bin\BusinessLogic.pdb
+C:\Users\TAN\Desktop\WebBanDT\WebBanDT\bin\Common.pdb
+C:\Users\TAN\Desktop\WebBanDT\WebBanDT\bin\DataAccess.pdb
+C:\Users\TAN\Desktop\WebBanDT\WebBanDT\obj\Debug\WebBanDT.dll
+C:\Users\TAN\Desktop\WebBanDT\WebBanDT\obj\Debug\WebBanDT.pdb
+C:\Users\TAN\Desktop\WebBanDT\WebBanDT\obj\Debug\WebBanDT.csprojResolveAssemblyReference.cache
+C:\Users\TAN\Desktop\WebBanDT\WebBanDT\bin\AjaxControlToolkit.dll
+C:\Users\TAN\Desktop\WebBanDT\WebBanDT\bin\WebBanDT.dll.config

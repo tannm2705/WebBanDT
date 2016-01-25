@@ -1,0 +1,404 @@
+﻿body
+{
+	background: #FFFFFF url(../images/6.png) repeat;
+}
+#full
+{
+	width: 1024px;
+	margin: 0 auto;
+	height:2000px;
+	-moz-box-shadow: 0px 0px 7px 7px #666;
+	-webkit-box-shadow: 0px 0px 7px 7px #666;
+	background-image: url('../images/bg1.jpg');
+}
+#header
+{
+	width: 100%;
+	height: 294px;
+	margin-bottom: 4px;
+}
+#banner
+{
+	width: 100%;
+	height: 256px;
+	background-image: url(../images/Banner1.jpg);
+}
+#menu
+{
+	width: 100%;
+	height: 38px;
+	margin-top:1px;
+	background-image: url(../images/bg_menu.png);
+	
+}
+#wapper
+{
+	width: 100%;
+	height:auto;
+	margin: 0;
+	height:1467px;
+}
+.menu_btn
+{
+	width: 80px;
+	height: 23px;
+	margin: 4px 6px;
+	background-image: url(../images/img_menu.gif);    
+	float: left;
+	color: White;
+	font-family: Verdana;
+	text-align: center;
+	font-size: small;
+	padding-top: 7px;
+}
+.menu_btn a
+{
+	color: White;
+	text-decoration: none;
+}
+.menu_btn a:hover
+{
+	font-weight: bold;
+	color: Yellow;
+}
+#left
+{
+	width: 20%;
+	float: left;
+	height:auto;
+}
+#right
+{
+	width: 80%;
+	float: right;
+	height:auto;
+}
+#slide
+{  
+	height: 350px;
+	background-color:#ffebc7;
+	margin-left:4px;
+	margin-right:0px;
+}
+#contenhoder
+{
+	height:284px;
+	margin-left:4px;
+	width:99%;
+	
+}
+#search
+{
+	height: 44px;
+	background-image:url(../images/ThanhTimKiem.png);
+	margin-top:4px;
+	 margin-left:4px;
+}
+#product
+{
+	width: 100%;
+	height:auto;
+}
+
+#product a
+{
+	text-decoration:none;
+	color:Blue;
+}
+#product a:hover
+{
+	color:Red;
+	font-weight:bold;
+}
+.product_chung
+{ 
+	height: 400px;
+	background-color:Red;
+	margin-top:5px;
+	margin-left:4px;
+	margin-right:0px;
+	margin-bottom:0px;
+}
+
+.product_titel
+{
+	
+	height:27px;
+	background-image:url(../images/bg_title_product.gif);
+	font-family: Arial;
+	font-size:small;
+	font-weight: bold;
+	color:Yellow;
+	padding-left:90px;
+	padding-top:7px;
+   
+}
+.product_content
+{
+  height:364px;
+  background-color:#ffebc7;
+  margin-left:2px;
+  margin-right:2px;    
+}
+
+
+.block_left, .block_sanpham, .block_dangnhap,.block_hotro,.block_raovat,.block_thongke
+{
+	background-color: #cc0000;
+	width: 100%;
+	margin-bottom: 5px;
+}
+.block_sanpham
+{
+	height:auto;
+}
+.block_dangnhap
+{
+	height: 250px;
+}
+.block_hotro
+{
+	height:200px;
+}
+.block_raovat
+{
+	height:600px;
+}
+.block_raovat a
+{
+	text-decoration:none;
+	color:Blue;
+}
+.block_raovat a:hover
+{
+	color:Red;
+	font-weight:bold;
+}
+.block_thongke 
+{
+	width: 100%;
+	Height: 102px;
+}
+
+.block_title
+{
+	background-image: url('../images/bg_title.png');
+	height: 30px;
+	font-family: Arial;
+	font-size:small;
+	font-weight: bold;
+	color:Yellow;
+	text-align: center;
+	padding-top: 8px;
+	padding-left:10px;
+}
+.block_content, .block_content_dn, .block_content_sp,.block_content_hotro,.block_content_raovat,.blocktent_tho_thongke
+{
+	background-color: #ffebc7;
+	margin: 0 2px 2px 2px; 
+}
+.block_content_sp
+{
+	height:auto;
+}
+
+.block_content_dn
+{
+	height: 210px;
+}
+.block_content_hotro
+{
+	height:160px;
+}
+.block_content_raovat
+{
+	height:560px;
+}
+.block_content_thongke
+ {
+	width: 100%;
+	height: 100px;
+}
+/*can chinh menu san pham ben trai*/
+.bock_conten_dong
+{
+	padding-top:5px;
+	border-color:Red;
+	height:25px;
+	border-width:1px;
+	border-bottom-style:solid;
+	padding-left:10px;
+	font-family:Times New Roman;
+	font-weight:bold;
+	font-size:large;
+	color:Gray;
+	
+}
+
+.dong
+{
+  height:25px;
+  border-bottom-style:solid;
+  border-bottom-color:Red;
+  border-width:1px;
+  padding-left:15px;    
+}
+.dong a
+{
+	text-decoration:none;
+	color:Maroon;
+}
+.dong a:hover
+{
+	color:Blue;
+	font-weight:bold;
+}
+/* Can chinh menu dang nhap */
+.login
+{
+  height:25px;
+  padding-left:10px;    
+  padding-top:10px;
+
+}
+.txtdangnhap
+{
+	margin-left:10px;
+	width:180px;
+	height:22px;
+	margin-top:0px;
+		
+}
+#dangky
+{
+	height:25px;
+	padding-left:10px;
+	padding-top:10px;
+	width: 185px;
+	margin-left: 2px;
+   
+}
+#dangky a
+{
+  text-decoration:none;
+  color:Blue;    
+}
+#dangky a:hover
+{
+  font-weight:bold;
+  color:Red;    
+}
+.buttomDangnhap
+{
+	margin-left:10px;
+	width:80px;
+	height:26px;
+	margin-top:2px;
+}
+
+/*phan ho tro truc tuyen*/
+
+.hotrotructuyen
+{
+  margin-left:10px;
+  margin-top:0px;
+  padding-top:5px;
+	height: 149px;
+}
+
+.hotrotructuyen a
+{
+	 color:Maroon;
+	 text-decoration:none;
+}
+.hotrotructuyen a:hover
+{
+	font-weight:bold;
+	color:Blue;
+}
+/*================*/
+/*phan tin rao vat*/
+.tinraovat
+{
+  padding-left:10px;
+  padding-top:10px;    
+}
+.tinraovat a
+{
+	color:Maroon;
+	text-decoration:none;
+}
+.tinraovat a:hover
+{
+	color:Blue;
+}
+/*=================*/
+#txt_search1
+{
+	margin-top: 9px;
+	margin-left: 195px;
+	width: 130px;
+	height:20px;
+}
+#txt_search2
+{
+ margin-top:9px;
+ margin-left:70px;
+ width: 100px;
+ height:20px;
+}
+
+#txt_search3
+{
+ margin-top:9px;
+ margin-left:60px;    
+ width:100px;
+ height:20px;
+}
+
+#Footer
+{
+  margin-top:5px;
+  width:100%;
+  height:134px;
+}
+
+#Footer p
+{
+	font-family:Times New Roman;
+	text-align:center;
+	color:Background;
+	height:123px;
+}
+.bnt_Search
+{
+	width:90px;
+	height:35px;
+	margin-top:2px;
+	margin-left:15px;
+}
+#_slide
+{
+	width:131px;
+	height:250px;
+	margin-left:100px;
+}
+
+#GridView
+{
+	width:200px;
+}
+#GridView a
+{
+	text-decoration: none;
+	color:Maroon;
+	font-size:medium;
+	padding-left:12px;
+}
+
+#GridView a:hover
+{
+   font-family:Times New Roman;
+   font-weight:bold;
+   color:Blue;
+}

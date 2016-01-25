@@ -1,0 +1,267 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="SanPham.master.cs" Inherits="WebBanDT.Web.SanPham" %>
+<%@ Register src="Controler/DanhSachAllNhaSX.ascx" tagname="DanhSachAllNhaSX" tagprefix="uc1" %>
+<%@ Register src="Controler/TinRaoVat.ascx" tagname="TinRaoVat" tagprefix="uc2" %>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+	<title></title>
+	<link href="CSS/StyleSheet2.css" rel="stylesheet" type="text/css" />
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<link rel="stylesheet" type="text/css" href="preview.css"/>
+	<link rel="stylesheet" type="text/css" href="wt-rotator.css"/>
+	<script type="text/javascript" src="js/jquery-1.4.2.min.js"></script>
+	<script type="text/javascript" src="js/jquery.wt-rotator.min.js"></script>
+	<script type="text/javascript" src="js/preview.js"></script>
+	<asp:ContentPlaceHolder ID="head" runat="server">
+	</asp:ContentPlaceHolder>
+
+	 <style type="text/css">
+		.id=
+		{
+			width: 178px;
+		}
+		.id=
+		{
+			height: 48px;
+		}
+	</style>
+</head>
+<body>
+	<form id="form1" runat="server">
+	<div>
+
+
+		<div id="full">
+				<div id="header">
+				   <div id="banner">
+				   </div>
+				   <div id="menu">
+						<div class="menu_btn">
+							<a href="TrangChu.aspx">Trang chủ</a>
+						</div>
+						<div class="menu_btn">
+							 <a href="SanPham.aspx">Sản phẩm</a>
+						</div>
+						<div class="menu_btn">
+							 <a href="GioiThieu.aspx">Giới thiệu</a>
+						</div>
+						<div class="menu_btn">
+							 <a href="LienHe.aspx">Liên hệ</a>   
+						</div>
+						 <div class="menu_btn">
+							<a href="GioHang.aspx">Giỏ hàng</a>
+						</div>
+						<div class="menu_btn">
+							<a href="ThacMac.aspx">Thắc mắc</a>
+						</div>
+						<div class="menu_btn">
+							<a href="FollowingProduct.aspx">Following</a>
+						</div>
+						<div class="menu_btn">
+							<a href="ThongTinCaNhan.aspx">Cá Nhân</a>
+						</div>
+				   </div>
+				</div>
+				<div id="wapper">
+						<div id="left">
+								<div class="block_sanpham">
+										<div class="block_title">
+										   Danh mục sản phẩm
+										</div>
+										<div class="block_content_sp">
+												 <div id="Div1" class="bock_conten_dong" runat="server">
+													Hãng điện thoại
+												 </div>
+												 <div id="GridView" runat="server">
+													 <uc1:DanhSachAllNhaSX ID="DanhSachAllNhaSX1" runat="server" />
+												 </div>
+										</div>
+							   
+									   
+								</div>
+								<div class="block_hotro">
+										<div class="block_title">
+										Hỗ trợ trực tuyến
+										</div>
+										<div class="block_content_hotro">
+												<div id="Div15" class="hotrotructuyen" runat="server">
+													  Hotline:<br />
+													  * <a href="#">0932.060.886</a><br />
+                                                      Mail:<br />
+													  * <a href="ThacMac.aspx">tannm2705@gmail.com</a><br />
+													 <!-- * <a href="#">admin@didongonline.com</a>-->
+												</div>
+										</div>
+								</div>
+								<div class="block_dangnhap">
+									  <div class="block_title">
+											Thành viên
+									  </div>
+									  <div class="block_content_dn">
+											   
+										 <asp:MultiView ID="multiview1" runat="server">
+											<asp:View ID="view1" runat="server">
+												<div id="Div16" class="login" runat="server"></div>
+                                               * Bạn chưa đăng nhập! <br />
+                                               *Hãy vui lòng <a href="Thanhviendangnhap.aspx">đăng nhập</a> để sử dụng dịch vụ của chúng tôi!
+                                                <br />
+                                               *Nếu bạn chưa có tài khoản hãy bấm vào <a href="DangKy.aspx">Đăng ký</a>
+												<div>
+													 <asp:Label ID="lbThongBao" runat="server" Text=""></asp:Label>
+												</div>
+											</asp:View>
+											<asp:View ID="view2" runat="server">
+												<table style=" width:100%">
+												  <tr>
+													 <td align="center">
+                                                     <!--
+														  <embed height="150px" pluginspage="http://www.macromedia.com/go/getflashplayer" quality="high"
+															 src="images/Loading3.swf" type="application/x-shockwave-flash" width="150px">
+														  </embed>
+                                                    -->
+                                                    	 <asp:DataList ID="dlIgmUser" runat="server">
+                                                             <ItemTemplate>
+                                                                 <asp:Image ID="Image2" runat="server" Height="120px" 
+                                                                     ImageUrl='<%# Eval("ImgUrl") %>' Width="120px" />
+                                                             </ItemTemplate>
+                                                         </asp:DataList>
+                                                         &nbsp;</td>
+												  </tr>
+												  <tr>
+													 <td align="center">
+														 <asp:Label ID="lbwellcome" runat="server" ForeColor="Red"></asp:Label>
+													 </td>
+												  </tr>
+												  <tr>
+													 <td align="center">
+														 <asp:LinkButton ID="LinkButton1" runat="server" onclick="LinkButton1_Click">Đăng xuất</asp:LinkButton>
+													 </td>
+												  </tr>
+												</table>
+											</asp:View>
+										</asp:MultiView>
+									  </div>
+								</div>
+								<div class="block_raovat">
+										<div class="block_title">
+										Tin rao vặt
+										</div>
+										<div class="block_content_raovat">
+										   <table style=" width:100%;float:left;">
+											   <tr>
+												   <td align="center">
+													   <uc2:TinRaoVat ID="TinRaoVat1" runat="server" />
+												   </td>
+											   </tr>
+											</table>
+										</div>
+								</div>
+						</div>
+						<div id="centrel">
+								<div id="search">
+								  <div style=" padding-left:50px; float:left; padding-top:6px;"><asp:Label ID="lbtk" runat="server" ForeColor="Yellow" Text="Tìm kiếm theo tên:"></asp:Label></div>
+								  <div style=" float:left; padding-top:4px;">
+									 <asp:TextBox ID="txt_Search" runat="server"></asp:TextBox>
+								  </div>
+								  <div style=" float:left; padding-left:50px; padding-top:4px;">
+									 <asp:Button ID="Button3" Text="Search" runat="server" 
+										 onclick="Button3_Click" />
+		    &nbsp&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp&nbsp&nbsp&nbsp<asp:Button ID="btnTimKiemNangCao"
+                                          runat="server" Text="Tìm Kiếm Nâng Cao" onclick="btnTimKiemNangCao_Click" 
+                                          />
+								  </div>
+								</div>
+								<div id="body">
+									 <table>
+										<tr>
+										   <td>
+										   <div class="panel">
+	
+	<div class="container">
+		<div class="wt-rotator">
+			<a href="#"></a>            
+			<div class="desc"></div>
+			<div class="preloader"></div>
+			<div class="c-panel">
+				<div class="buttons">
+					<div class="prev-btn"></div>
+					<div class="play-btn"></div>    
+					<div class="next-btn"></div>               
+				</div>
+				<div class="thumbnails">
+					<ul>
+						<li>
+							<a href="image/hinh0.jpg"></a>
+				  
+						</li>
+						<li>
+							<a href="image/hinh1.jpg"></a>                      
+							
+						</li>
+						<li>
+							<a href="image/hinh10.jpg"></a>
+													  
+						</li>
+						<li>
+							<a href="image/hinh2.jpg"></a>                      
+							
+						</li>
+						<li>
+							<a href="image/hinh3.jpg"></a>
+													 
+						</li>
+						<li>
+							<a href="image/hinh4.jpg"></a>
+																				
+						</li>
+						<li>
+							<a href="image/hinh5.jpg"></a>   
+																									   
+						</li>
+						<li>
+							<a href="image/hinh6.jpg"></a>                  
+																								  
+						</li>
+						<li>
+							<a href="image/hinh7.jpg"></a>        
+						
+						</li>     
+						<li>
+							<a href="image/hinh8.jpg"></a>                    																			   
+						</li>   
+						  <li>
+							<a href="image/hinh9.png"></a>                  																					  
+						</li>  
+					</ul>
+				</div>     
+			</div>
+		</div>	
+  </div>
+	</div>
+										   </td>
+										</tr>
+									 </table>
+									 <asp:ContentPlaceHolder id="ContentPlaceHolder2" runat="server">
+									 </asp:ContentPlaceHolder>
+								</div>
+						</div>
+
+				</div>
+				<div id="footer">
+							  <table style=" width:1024px; float:left;">
+									<tr>
+										<td align="center">
+											  <p>WEBSITE BÁN ĐIỆN THOẠI DI ĐỘNG ONLINE
+												
+											 </p>
+										</td>
+									</tr>
+							  </table>
+							 
+				</div>
+		</div>
+	</div>
+	</form>
+</body>
+</html>

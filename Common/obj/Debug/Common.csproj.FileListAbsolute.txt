@@ -1,0 +1,19 @@
+C:\Users\admin\Documents\Visual Studio 2010\Projects\WebBanDT\Common\bin\Debug\Common.dll
+C:\Users\admin\Documents\Visual Studio 2010\Projects\WebBanDT\Common\bin\Debug\Common.pdb
+C:\Users\admin\Documents\Visual Studio 2010\Projects\WebBanDT\Common\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\admin\Documents\Visual Studio 2010\Projects\WebBanDT\Common\obj\Debug\Common.dll
+C:\Users\admin\Documents\Visual Studio 2010\Projects\WebBanDT\Common\obj\Debug\Common.pdb
+C:\Users\PHUONG\Desktop\New folder\WebBanDT\Common\bin\Debug\Common.dll
+C:\Users\PHUONG\Desktop\New folder\WebBanDT\Common\bin\Debug\Common.pdb
+C:\Users\PHUONG\Desktop\New folder\WebBanDT\Common\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\PHUONG\Desktop\New folder\WebBanDT\Common\obj\Debug\Common.dll
+C:\Users\PHUONG\Desktop\New folder\WebBanDT\Common\obj\Debug\Common.pdb
+C:\Users\PHUONG\Desktop\DATN\WebBanDT\Common\bin\Debug\Common.dll
+C:\Users\PHUONG\Desktop\DATN\WebBanDT\Common\bin\Debug\Common.pdb
+C:\Users\PHUONG\Desktop\DATN\WebBanDT\Common\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\PHUONG\Desktop\DATN\WebBanDT\Common\obj\Debug\Common.dll
+C:\Users\PHUONG\Desktop\DATN\WebBanDT\Common\obj\Debug\Common.pdb
+C:\Users\TAN\Desktop\WebBanDT\Common\bin\Debug\Common.dll
+C:\Users\TAN\Desktop\WebBanDT\Common\bin\Debug\Common.pdb
+C:\Users\TAN\Desktop\WebBanDT\Common\obj\Debug\Common.dll
+C:\Users\TAN\Desktop\WebBanDT\Common\obj\Debug\Common.pdb

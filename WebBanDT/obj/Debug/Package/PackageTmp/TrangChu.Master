@@ -1,0 +1,324 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="TrangChu.master.cs" Inherits="WebBanDT.Web.TrangChu" %>
+<%@ Register src="Controler/DanhSachAllNhaSX.ascx" tagname="DanhSachAllNhaSX" tagprefix="uc1" %>
+<%@ Register src="Controler/SanPhamBanChay.ascx" tagname="Hienthitinraovat" tagprefix="uc5" %>
+<%@ Register src="Controler/HienThiSPTheoPC.ascx" tagname="HienThiSPTheoPC" tagprefix="uc2" %>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+	<title></title>
+	<link rel="stylesheet" type="text/css" href="preview.css"/>
+	<link rel="stylesheet" type="text/css" href="wt-rotator.css"/>
+	<script type="text/javascript" src="js/jquery-1.4.2.min.js"></script>
+	<script type="text/javascript" src="js/jquery.wt-rotator.min.js"></script>
+	<script type="text/javascript" src="js/preview.js"></script>
+	<link href="CSS/StyleSheet1.css" rel="stylesheet" type="text/css" />
+	<asp:ContentPlaceHolder ID="head" runat="server">
+	</asp:ContentPlaceHolder>
+
+	 <style type="text/css">
+		#txt_search
+		{
+			height: 24px;
+			width: 147px;
+		}
+		#form1
+		{
+			height: 2003px;
+		}
+		 .style3
+		 {
+			 width: 43px;
+		 }
+		 .style6
+		 {
+			 height: 15px;
+		 }
+		 .style7
+		 {
+			 width: 43px;
+			 height: 42px;
+		 }
+		 .style8
+		 {
+			 height: 30px;
+		 }
+		 </style>
+</head>
+<body>
+	<form id="form1" runat="server">
+	<div>
+		<div id="full" runat="server">
+				<div id="header" runat="server">
+						<div id="banner">
+		<asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+		</asp:ContentPlaceHolder>
+						</div>
+						 <div id="menu" runat="server">
+						<div class="menu_btn">
+						 <a href="TrangChu.aspx">Trang Chủ</a>
+						</div>
+						<div class="menu_btn">
+						<a href="SanPham.aspx">Sản phẩm</a>
+						</div>
+						<div class="menu_btn">
+						<a href="GioiThieu.aspx">Giới thiệu</a>
+						</div>
+						<div class="menu_btn">
+						<a href="LienHe.aspx">Liên hệ</a>
+						</div>
+						<div class="menu_btn">
+						<a href="ThacMac.aspx">Thắc mắc</a>
+						</div>
+						<div class="menu_btn">
+						<a href="GioHang.aspx">Giỏ hàng</a>
+						</div>
+						<div class="menu_btn">
+						<a href="Thanhviendangnhap.aspx">Đăng Nhập</a>
+						</div>
+				</div>
+				</div>
+
+
+	   <!--Wapper-->
+	   <div id="wapper" runat="server">
+				<!-- Start -->
+				<div id="left">
+						<div class="block_sanpham">
+						<div class="block_title">
+						Danh mục sản phẩm
+						</div>
+							<div class="block_content_sp">
+
+							   <!-- <div class="bock_conten_dong" runat="server">
+								 Hãng điện thoại
+								</div>-->
+								<div id="GridView" runat="server">
+									<uc1:DanhSachAllNhaSX ID="DanhSachAllNhaSX1" runat="server" />
+								 </div>
+						   </div>
+					</div>
+					<div class="block_hotro">
+						<div class="block_title">
+						Hỗ trợ trực tuyến
+						</div>
+						<div class="block_content_hotro">
+						<div id="Div17" class="hotrotructuyen" runat="server">
+						Hotline:<br />
+						* <a href="#">0932.060.886</a><br />
+						Mail:<br />
+						* <a href="ThacMac.aspx">tannm2705@gmail.com</a><br />
+						<!--* <a href="#">admin@didongonline.com</a>-->
+						</div>
+						</div>
+					</div>
+					<div class="block_raovat">
+						<div class="block_title">
+						Điện thoại bán chạy
+						</div>
+						<div class="block_content_raovat">
+							<uc5:Hienthitinraovat ID="Hienthitinraovat1" runat="server" />
+						</div>
+					</div>
+					<div class="block_hotro">
+						<div class="block_title">
+						Thống kê truy cập
+						</div>
+						<div class="block_content_hotro">
+						<div id="Div1" class="hotrotructuyen" runat="server">
+						   <table style=" width:100%; height: 72px;">
+							 <tr>
+							   <td colspan="2" class="style6"></td>
+							 </tr>
+							 <tr>
+							   <td align="left" class="style7">
+								 <asp:Image ID="songuoitruycap" runat="server" ImageUrl="~/icons/online.png"/>
+							   &nbsp;</td>
+							   <td class="style8">
+								  Visit:  <asp:Label ID="lbthongke" runat="server" ForeColor="Red" Font-Size="Large"></asp:Label>
+							   </td>
+							 </tr>
+							 <tr>
+								<td class="style3">
+								  <asp:Image ID="thongkeonline" runat="server"  ImageUrl="~/icons/images.jpg"/>
+								</td>
+								<td>
+								 Online: <asp:Label ID="lbthongkeonline" runat="server" ForeColor="Red" Font-Size="Large"></asp:Label>
+								</td>
+							 </tr>
+						   </table>
+						</div>
+						</div>
+					</div>
+				</div>
+				<!--End Left, Start Right -->
+
+				<div id="right">
+					<div id="slide" runat="server">
+					   <table style=" width:100%; height:100%; float:left;">
+						   <tr>
+								<td align="center">
+									<div class="panel">
+	
+	<div class="container">
+		<div class="wt-rotator">
+			<a href="#"></a>            
+			<div class="desc"></div>
+			<div class="preloader"></div>
+			<div class="c-panel">
+				<div class="buttons">
+					<div class="prev-btn"></div>
+					<div class="play-btn"></div>    
+					<div class="next-btn"></div>               
+				</div>
+				<div class="thumbnails">
+					<ul>
+						<li>
+							<a href="image/hinh0.jpg"></a>
+				  
+						</li>
+						<li>
+							<a href="image/hinh1.jpg"></a>                      
+							
+						</li>
+						<li>
+							<a href="image/hinh10.jpg"></a>
+													  
+						</li>
+                        <!--
+						<li>
+							<a href="image/hinh11.png" title="nhatnghe.com"></a>
+							<a href="http://nhatnghe.com/forum/showthread.php?t=89969" target="_blank"></a>
+																			
+						</li>
+
+						<li>
+							<a href="image/hinh12.jpg" title="khoaphp@yahoo.com"></a>   
+							<a href="http://nhatnghe.com/forum/showthread.php?t=89170" target="_blank"></a>
+																									   
+						</li>
+						<li>
+							<a href="image/hinh13.jpg" title="nhatnghe.com"></a>                  
+							<a href="http://nhatnghe.com/forum/showthread.php?t=52130" target="_blank"></a>
+																							  
+						</li>
+						<li>
+							<a href="image/hinh14.jpg" title="khoaphp@yahoo.com"></a>        
+							<a href="http://nhatnghe.com/forum/showthread.php?t=65507" target="_blank"></a>
+							
+						</li>     
+						<li>
+							<a href="image/hinh15.png" title="nhatnghe.com"></a>                    
+							<a href="http://nhatnghe.com/forum/showthread.php?t=34299" target="_blank"></a>
+																				   
+						</li>     
+
+						 <li>
+							<a href="image/hinh16.png" title="nhatnghe.com"></a>
+							<a href="http://nhatnghe.com/forum/showthread.php?t=80181" target="_blank"></a> 
+												 
+						</li>
+                        -->
+
+						<li>
+							<a href="image/hinh2.jpg"></a>                      
+							
+						</li>
+						<li>
+							<a href="image/hinh3.jpg"></a>
+													 
+						</li>
+						<li>
+							<a href="image/hinh4.jpg"></a>
+																				
+						</li>
+						<li>
+							<a href="image/hinh5.jpg"></a>   
+																									   
+						</li>
+						<li>
+							<a href="image/hinh6.jpg"></a>                  
+																								  
+						</li>
+						<li>
+							<a href="image/hinh7.jpg"></a>        
+						
+						</li>     
+						<li>
+							<a href="image/hinh8.jpg"></a>                    																			   
+						</li>   
+						  <li>
+							<a href="image/hinh9.png"></a>                  																					  
+						</li>  
+					</ul>
+				</div>     
+			</div>
+		</div>	
+  </div>
+	</div>
+								</td>
+						   </tr>
+					   </table>
+						
+					</div>
+					
+				   <div id="product">
+						<div class="product_chung">
+							<div class="product_titel">
+							Hàng cao cấp
+							</div>
+							
+							<div class="product_content">
+							
+								
+								<uc2:HienThiSPTheoPC ID="HienThiSPTheoPC1" runat="server" />
+							
+								
+							</div>
+						</div>
+
+						<div class="product_chung">
+							<div class="product_titel">
+							Hàng trung cấp
+							</div>
+							<div class="product_content">
+							   
+								<uc2:HienThiSPTheoPC ID="HienThiSPTheoPC2" runat="server" />
+							   
+							</div>
+						</div>
+
+						<div class="product_chung">
+							<div class="product_titel">
+							 Hàng phổ thông
+							</div>
+							
+							<div class="product_content">
+							   
+								<uc2:HienThiSPTheoPC ID="HienThiSPTheoPC3" runat="server" />
+							   
+							</div>
+						</div>
+					</div> 
+			   </div>
+				<!--End right-->
+			</div>
+	   <!--Footer-->
+	   <div id="Footer" runat="server">
+		  <table style=" width: 100%; height:100%;" align="center">
+			  <tr> 
+				 <td align="center">
+					<p>
+					  <br />WEBSITE BÁN ĐIỆN THOẠI DI ĐỘNG ONLINE
+					  <br />Trường Đại Học Bách Khoa - Hà Nội
+					</p>
+				 </td>
+			  </tr>
+		  </table>
+			   
+	   </div>
+	</div>
+	</div>
+	</form>
+</body>
+</html>

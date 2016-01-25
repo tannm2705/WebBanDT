@@ -1,0 +1,41 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Admin.master.cs" Inherits="WebBanDT.Admin.Admin" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+    <link href="admin.css" rel="stylesheet" type="text/css" />
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div id="full">
+       <div id="header">
+           <h1 style=" padding-left:300px; padding-top:0px; color:Red;">Đăng nhập vào trang quản trị</h1>
+       </div>
+       <div id="menu">
+           <asp:Button ID="btnThemNSX" Text="Thêm NSX"  runat="server" CssClass="btnnsx" 
+               onclick="btnThemNSX_Click"/>
+           <asp:Button ID="btnThemkieudang" Text="Thêm kiểu dáng"  runat="server" 
+               CssClass="btnkieudang" onclick="btnThemkieudang_Click"/>
+           <asp:Button ID="btnthemphongcach" Text="Đơn hàng"  runat="server" 
+               CssClass="btnphongcach" onclick="btnthemphongcach_Click"/>
+           <asp:Button ID="btnthemsanpham" Text="Tin rao vặt"  runat="server" 
+               CssClass="btnsanpham" onclick="btnthemsanpham_Click"/>
+           <asp:Button ID="btnThemXoaUse" Text="Thêm Xóa Use"  runat="server" 
+           CssClass="btnsanpham" onclick="btnThemXoaUse_Click"/>
+           <asp:Button ID="btnSanPham" Text="Sản Phẩm"  runat="server" 
+           CssClass="btnsanpham" onclick="btnSanPham_Click"/>
+           <asp:Button ID="btnTrangChu" Text="Trang chủ"  runat="server" 
+           CssClass="btnsanpham" onclick="btnTrangChu_Click"/>
+       </div>
+       <div id="wapper">
+              <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+              </asp:ContentPlaceHolder>
+        </div>
+    </div>
+    </form>
+</body>
+</html>

@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="WebBanDT" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Users\\TAN\\Desktop\\WebBanDT\\WebBanDT\\obj\\Debug\\Package\\PackageTmp$" />
+    <parameterEntry kind="ProviderPath" scope="setAcl" match="^C:\\Users\\TAN\\Desktop\\WebBanDT\\WebBanDT\\obj\\Debug\\Package\\PackageTmp$" />
+  </parameter>
+  <parameter name="SQLCONN-Web.config Connection String" description="" value="Server=(local);Database=WebBanDT;uid=sa;pwd=123456;" tags="">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\TAN\\Desktop\\WebBanDT\\WebBanDT\\obj\\Debug\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='SQLCONN']/@connectionString" />
+  </parameter>
+  <parameter name="WebBanDTConnectionString-Web.config Connection String" description="" value="Server=(local);Database=WebBanDT;uid=sa;pwd=123456; Integrated Security=True" tags="">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\TAN\\Desktop\\WebBanDT\\WebBanDT\\obj\\Debug\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='WebBanDTConnectionString']/@connectionString" />
+  </parameter>
+  <parameter name="WebSiteDTConnectionString-Web.config Connection String" description="" value="Server=(local);Database=WebBanDT;uid=sa;pwd=123456; Integrated Security=True" tags="">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\TAN\\Desktop\\WebBanDT\\WebBanDT\\obj\\Debug\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='WebSiteDTConnectionString']/@connectionString" />
+  </parameter>
+</parameters>
